@@ -20,9 +20,9 @@
 | 4 October | [Daniel Rubin](https://profiles.stanford.edu/daniel-rubin) | Stanford Radiology | Research Discovery and Precision Practice with Unstructured Biomedical Data |
 | 11 October | | | |
 | 18 October | [Jennifer Frankovich](https://profiles.stanford.edu/jennifer-frankovich) | Stanford Pediatrics Rheumatology | How an MD can use informatics to improve clinical care |
-| 25 October | | | |
+| 25 October | [Robert Shafer](https://profiles.stanford.edu/robert-shafer) | Stanford Infectious Diseases | |
 | 1 November | | | |
-| 8 November | | | |
+| 8 November | [Trevor Hastie](https://web.stanford.edu/~hastie/) | Stanford Statistics and Biomedical Data Science | |
 | 15 November | | | |
 | 29 November | [Manuel Rivas](https://profiles.stanford.edu/manuel-rivas) | Stanford Biomedical Data Science | |
 | 6 December | [Rob Tibshirani](https://statweb.stanford.edu/~tibs/) | Stanford Biomedical Data Science, Statistics | |
